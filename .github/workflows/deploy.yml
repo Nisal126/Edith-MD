@@ -25,7 +25,7 @@ jobs:
           echo "Files in current directory:"
           ls -la
 
-          echo "=== SESSION ID CHECK ==="
+          echo "=== SESSION ID CHECK ==="EDITH~VRwp
           if [ -f ".env" ]; then
             echo ".env file found:"
             cat .env
